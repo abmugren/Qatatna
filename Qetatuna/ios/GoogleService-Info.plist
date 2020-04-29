@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1033491731762-bff5d2ahsdrlhjjqutb2fh22fj0iinku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1033491731762-bff5d2ahsdrlhjjqutb2fh22fj0iinku</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8VYu2CuVJRj9rBu1Tv3d0Gk_8N3eRiHI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1033491731762</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Qetatuna</string>
+	<key>PROJECT_ID</key>
+	<string>qetatuna-dc54a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qetatuna-dc54a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1033491731762:ios:de5d13b8a25dcd022ff32b</string>
+	<key>DATABASE_URL</key>
+	<string>https://qetatuna-dc54a.firebaseio.com</string>
+</dict>
+</plist>

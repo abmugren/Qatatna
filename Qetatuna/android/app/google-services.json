@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033491731762",
+    "firebase_url": "https://qetatuna-dc54a.firebaseio.com",
+    "project_id": "qetatuna-dc54a",
+    "storage_bucket": "qetatuna-dc54a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033491731762:android:4fe97aa08fc648972ff32b",
+        "android_client_info": {
+          "package_name": "com.qetatuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033491731762-k6qben9r94utsubfh2adsuvc0054e56l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgewAszAwAqJJ591mxY8Q5XO9JTMJMS4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033491731762-k6qben9r94utsubfh2adsuvc0054e56l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
